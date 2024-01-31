@@ -1,0 +1,236 @@
+.navbar {
+  background-color: rgb(244, 239, 239);
+}
+
+.nav-highlight {
+  color: black !important;
+  border-bottom: 1px solid black;
+}
+
+.nav-link {
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+.nav-link {
+  color: rgb(135, 135, 135);
+}
+
+.nav-link:hover {
+  color: black;
+}
+
+.navbar-brand:hover {
+  color: rgb(135, 135, 135);
+}
+
+.main-body {
+  min-height: 100vh;
+}
+
+.footer-em {
+  background-color: #faf2f4;
+  text-align: center;
+}
+
+/*** ALL PAGES ***/
+
+.title-row {
+  text-align: center;
+}
+
+.text-example {
+  text-align: left;
+  /* border: 1px solid gray; */
+}
+
+.font-info {
+  display: flex;
+  align-items: center;
+  /* border: 1px solid gray; */
+}
+
+.font-info p {
+  font-family: monospace;
+  color: gray;
+}
+
+/*** PAGE 1 - DM Serif Display & Poppins ***/
+
+.page1-body {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.page1-title-DM {
+  font-family: "DM Serif Display", serif;
+  font-weight: 400;
+}
+
+.page1-title-poppins {
+  font-family: "Poppins", sans-serif;
+}
+
+.page1-heading1 {
+  font-family: "DM Serif Display", serif;
+  font-size: 7.993rem;
+  font-weight: 400;
+}
+
+.page1-heading2 {
+  font-family: "DM Serif Display", serif;
+  font-size: 5.653rem;
+  font-weight: 400;
+}
+
+.page1-heading3 {
+  font-family: "DM Serif Display", serif;
+  font-size: 3.998rem;
+  font-weight: 400;
+}
+
+.page1-heading4 {
+  font-family: "DM Serif Display", serif;
+  font-size: 2.827rem;
+  font-weight: 400;
+}
+
+.page1-emphasized {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.inline-link1 {
+  font-family: "Poppins", sans-serif;
+  color: #0600ff;
+}
+
+.inline-link1:hover {
+  color: #60b2bc;
+}
+
+.inline-link1-hover {
+  font-family: "Poppins", sans-serif;
+  color: #60b2bc;
+  text-decoration: underline;
+}
+
+/*** PAGE 2 - Spectral & Spectral ***/
+
+.page2-body {
+  font-family: "Spectral", serif;
+  font-size: 16px;
+}
+
+.page2-title {
+  font-family: "Spectral", serif;
+  font-weight: 700;
+}
+
+.page2-heading1 {
+  font-family: "Spectral", serif;
+  font-size: 3.815rem;
+  font-weight: 700;
+}
+
+.page2-heading2 {
+  font-family: "Spectral", serif;
+  font-size: 3.052rem;
+  font-weight: 700;
+}
+
+.page2-heading3 {
+  font-family: "Spectral", serif;
+  font-size: 2.441rem;
+  font-weight: 700;
+}
+
+.page2-heading4 {
+  font-family: "Spectral", serif;
+  font-size: 1.953rem;
+  font-weight: 700;
+}
+
+.page2-emphasized {
+  font-weight: 700;
+  font-style: italic;
+}
+
+.inline-link2 {
+  color: #0600ff;
+}
+
+.inline-link2:hover {
+  color: #60b2bc;
+}
+
+.inline-link2-hover {
+  color: #60b2bc;
+  text-decoration: underline;
+}
+
+/*** PAGE 3 - Sarabun & Cousine ***/
+
+.page3-body {
+  font-family: "Cousine", monospace;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.page3-title-sarabun {
+  font-family: "Sarabun", sans-serif;
+  font-weight: 700;
+}
+
+.page3-title-cousine {
+  font-family: "Cousine", monospace;
+}
+
+.page3-heading1 {
+  font-family: "Sarabun", sans-serif;
+  font-size: 5.61rem;
+  font-weight: 400;
+}
+
+.page3-heading2 {
+  font-family: "Sarabun", sans-serif;
+  font-size: 4.209rem;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.page3-heading3 {
+  font-family: "Sarabun", sans-serif;
+  font-size: 3.157rem;
+  font-weight: 700;
+}
+
+.page3-heading4 {
+  font-family: "Sarabun", sans-serif;
+  font-size: 2.369rem;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.page3-emphasized {
+  font-family: "Cousine", monospace;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.inline-link3 {
+  font-family: "Cousine", monospace;
+  color: #0600ff;
+}
+
+.inline-link3:hover {
+  color: #60b2bc;
+}
+
+.inline-link3-hover {
+  font-family: "Cousine", monospace;
+  color: #60b2bc;
+  text-decoration: underline;
+}
